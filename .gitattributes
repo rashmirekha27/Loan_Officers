@@ -1,0 +1,2 @@
+/Resources/application_data.csv.zip filter=lfs diff=lfs merge=lfs -text
+/Resources/previous_application.csv.zip filter=lfs diff=lfs merge=lfs -text
